@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on mobile applications in Flutter and experimenting with game development in Godot Engine.<br><br>👯 I’m looking to collaborate on open-source mobile apps and game development projects.<br><br>🤝 I’m looking for help with expanding my knowledge of advanced game mechanics and server-side development for mobile apps.<br><br>🌱 I’m currently learning new frameworks for mobile development and diving deeper into Kotlin and game engines.<br><br>💬 Ask me about mobile app development, game engines, or anything Linux-related. <br><br>⚡ Fun fact anime fan ![Uploading NanaHappy.png…]()
+🔭 I’m currently working on mobile applications in Flutter and experimenting with game development in Godot Engine.<br><br>👯 I’m looking to collaborate on open-source mobile apps and game development projects.<br><br>🤝 I’m looking for help with expanding my knowledge of advanced game mechanics and server-side development for mobile apps.<br><br>🌱 I’m currently learning new frameworks for mobile development and diving deeper into Kotlin and game engines.<br><br>💬 Ask me about mobile app development, game engines, or anything Linux-related. <br><br>⚡ Fun fact anime fan 👺
 
 
 
